@@ -11,5 +11,6 @@ Here you can find two folders and a notebook:
 - `data` which contains the extracted dataset of islands (with the renewable energy features, but without the clusters).
 - `clustering_islands.ipynb` is the example notebook containing island extraction, feature definition, and clustering.
 
+The extracted dataset and a subset of the processing steps in the notebook are also discussed in [this Kaggle project](https://www.kaggle.com/datasets/leolavagna/islands)
 
 
